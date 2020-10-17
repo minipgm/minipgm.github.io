@@ -59,14 +59,14 @@ plugins:
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-imagepath: /blogdemo
+imagepath: /
 
 links:
   - name:         Home
     url:          https://minipgm.github.io
     external:     false
   - name:         About
-    url:          /blogdemo/about
+    url:          /about
     external:     false
 
 #添加分类步骤：
@@ -84,11 +84,11 @@ links1:
     type:         recent
     external:     false
   - name:         随笔
-    url:          /blogdemo/myblog/essays
+    url:          /myblog/essays
     type:         essays
     external:     false
   - name:         Jekyll
-    url:          /blogdemo/myblog/jekyll
+    url:          /myblog/jekyll
     type:         jekyll
     external:     false
 
