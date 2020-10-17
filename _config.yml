@@ -1,6 +1,6 @@
 title: 业余之美
 description: > # this means to ignore newlines until "baseurl:"
-  Drive positive change and life will get better one day.
+  Drive positive changes and life will get better one day.
 permalink: ':title/'
 #baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "minipgm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "minipgm.github.io" # the base hostname & protocol for your site, e.g. http
 author: Jake
 
 author-pic: leach-face.jpg
-about-author: I am an Android developer.I will add description latter.
+about-author: Drive positive changes and life will get better one day.
 
 #修改成你自己的
 # Contact links
