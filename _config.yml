@@ -1,11 +1,9 @@
 title: 业余之美
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Drive positive change and life will get better one day.
 permalink: ':title/'
 #baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "minipgm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings add your name
 author: Jake
@@ -45,7 +43,7 @@ google-analysis:
 baidu-analysis:
 
 #youyan
-youyan-id: 
+youyan-id:
 
 # Paginate
 paginate: 18
@@ -65,7 +63,7 @@ imagepath: /blogdemo
 
 links:
   - name:         Home
-    url:          https://www.minipgm.cn
+    url:          https://minipgm.github.io
     external:     false
   - name:         About
     url:          /blogdemo/about
