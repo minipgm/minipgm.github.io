@@ -1,0 +1,76 @@
+{
+
+  "data": [
+    {
+      "id": "001",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/akali_thumbnail.jpg",
+      "list": ["早上吃鸡", "中午吃鸡", "晚上吃鸡", "天天吃鸡"]
+    }, {
+      "id": "002",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["幻仙", "幻魔", "幻神", "幻魂"]
+    }, {
+      "id": "003",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["木林森", "水水淼", "火炎焱", "土圭垚"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["七宗罪之色", "七宗罪之妒", "七宗罪之傲", "七宗罪之暴"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["大盘鸡", "干锅鸡", "白切鸡", "叫花鸡"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["听说五黑能超神", "传说五黑能超神", "道听五黑能超神", "途说五黑能超神"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["大哥你说啥子", "大哥说啥子勒", "大哥有说啥子", "艹我啥都没说"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["爷灬不可一世", "爷灬流芳百世", "爷灬谁与争锋", "爷灬傲视群雄"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["就是一个抢", "就是一个你", "就是一个人", "就是一个头"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["进击的小学生", "进击的中学生", "进击的高中生", "进击的大学生"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["同性才是人间真爱", "异性只为繁衍后代", "基情也许真的存在", "菊花只为基友展开"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["这个、可以有", "这个、真没有", "到底、有没有", "你说、有没有"]
+    }, {
+      "id": "004",
+      "desc": "四排吃鸡名",
+      "ic": "http://163.172.95.179/VOL/champ_thumbs/ahri_thumbnail.jpg",
+      "list": ["酒，不喝不醉", "人，不疲不睡", "心，不伤不碎", "情，不学不会"]
+    }
+
+
+  ]
+
+
+
+}
