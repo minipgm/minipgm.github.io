@@ -1,0 +1,21 @@
+{
+  "notes": "无广告解析！好用就分享！你的分享是我们服务的动力。"
+  "adType": "Banner",
+  "content": [{
+    "name": "Message",
+    "cover": "https://7778-wx06d87ae0b4b8c935-9d0rh4fc42e01-1304123242.tcb.qcloud.la/home/bg1.jpg?sign=6d301939a5bb1caccafacf5cc5cb0fe3&t=1604475879",
+    "url": "",
+    "description": "通知"
+    }, {
+    "name": "Summons",
+    "cover": "http://sound.lesignstatic.com/cover/sasha-instagram-com-sanfrancisco-259551.jpg",
+    "url": "",
+    "description": "传票"
+    }, {
+    "name": "Others",
+    "cover": "http://sound.lesignstatic.com/cover/sasha-instagram-com-sanfrancisco-259551.jpg",
+    "url": "",
+    "description": "其它"
+    }
+  ]
+}
