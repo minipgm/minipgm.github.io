@@ -1,0 +1,42 @@
+{
+  "adf": true,
+  "data": [
+    {
+      "audioUrl": "https://weixinapp-1253584435.cos.ap-beijing.myqcloud.com/Uploads/5_26/10/wbCRukvjZaYyZhJXWN1lQgw39OuXP1CnlZ8aFiLEh3JH8RIEHMZkXre6nUGNUM2L.mp3",
+      "catid": "currentVoicer",
+      "id": "x_xiaoxin",
+      "link": "/Uploads/5_26/10/wbCRukvjZaYyZhJXWN1lQgw39OuXP1CnlZ8aFiLEh3JH8RIEHMZkXre6nUGNUM2L.mp3",
+      "name": "蜡笔小新",
+      "text": "1兰州人都说：自己的早晨是从一碗牛肉拉面开始的，这个有着一千多家拉面馆的城市，每天要消耗一百万碗拉面。那忒好勒",
+      "status": "1",
+      "thumb": "http://static.minipgm.cn/xiaoxin.jpg",
+      "zhai": "bbbb"
+    },
+    {
+      "audioUrl": "https://weixinapp-1253584435.cos.ap-beijing.myqcloud.com/Uploads/3_28/10/f8YS88y480BhjWWuhFVb7qpirUJjkkIdoqJrHqBZR1HjXrPoBpnGR89ammviagi2.mp3",
+      "catid": "lianxi",
+      "id": "x_xiaokun",
+      "link": "/Uploads/3_28/10/f8YS88y480BhjWWuhFVb7qpirUJjkkIdoqJrHqBZR1HjXrPoBpnGR89ammviagi2.mp3",
+      "name": "河南话",
+      "text": "2那忒好勒",
+      "status": "1",
+      "thumb": "http://static.minipgm.cn/henanhua.jpg",
+      "zhai": ""
+    },
+    {
+      "audioUrl": "https://weixinapp-1253584435.cos.ap-beijing.myqcloud.com/Uploads/3_28/10/f8YS88y480BhjWWuhFVb7qpirUJjkkIdoqJrHqBZR1HjXrPoBpnGR89ammviagi2.mp3",
+      "catid": "lianxi",
+      "id": "x_xiaorong",
+      "link": "/Uploads/3_28/10/f8YS88y480BhjWWuhFVb7qpirUJjkkIdoqJrHqBZR1HjXrPoBpnGR89ammviagi2.mp3",
+      "name": "四川话",
+      "text": "3给你个眼神自己体会。",
+      "status": "1",
+      "thumb": "http://static.minipgm.cn/sichuanhua.jpg?v1",
+      "zhai": ""
+    }
+
+  ]
+
+
+
+}
